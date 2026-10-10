@@ -1,7 +1,7 @@
 # _smartbed_hospital_bed__tracker__
 ## 🔗 Live Prototype
 
-👉 **[View SmartBed Prototype](https://pixel-perfect-capture-2556.lovable.app)**
+👉 **[View SmartBed Prototype](https://bed-buddy-live.lovable.app)**
 
 Click the link above to explore the working prototype of the SmartBed Hospital Bed Availability Tracker.
 
